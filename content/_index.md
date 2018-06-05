@@ -1,7 +1,7 @@
 ---
 title: home
 date: 2018-06-04 18:28:28 +0200
-description: 'the tonal ligand is new research into cellular communication with music. '
+description: the tonal ligand is new research into cellular communication with music.
 header:
   description: <span class="blue-text">the tonal ligand</span> is musical research
     into cellular communication.
