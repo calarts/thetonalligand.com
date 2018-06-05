@@ -13,10 +13,24 @@ header:
     '848': img/contact_848x443.png
 text_groups:
 - name: Collaboration
-  description: <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam,
-    atque officiis ut, veritatis reiciendis sequi quos officia quidem tempora minus
-    fugit a suscipit nulla possimus?</p><br/><p>Let's get started&#58; <a class="blue-text
-    bold-text" href="mailto:hello@example.com?subject=Hello,%20Yates!%20Lets%20make%20something%20great%20together!">hello@example.com</a></p>
+  description: <span class="blue-text">contact us</span>
+    <form name="contact" method="POST" netlify>
+      <p>
+        <label>your name <input type="text" name="name" /></label>
+      </p>
+      <p>
+        <label>your email <input type="email" name="email" /></label>
+      </p>
+      <p>
+        <label>your message </label>
+      </p>
+      <p>
+        <textarea name="message"></textarea>
+      </p>
+      <p>
+        <button type="submit">Send</button>
+      </p>
+    </form>
 type: page
 
 ---
