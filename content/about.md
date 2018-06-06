@@ -14,7 +14,13 @@ header:
     '848': img/profile_848x443.png
 text_groups:
 - name: Sid Samberg
-  description: Born in 1989, Sid Samberg has been composing and performing his own music since the age of six. His music first gained attention in 1999 when he played for the world-renowned violinist Ida Haendel. He has since performed in New York, Montreal, Ann Arbor, Toronto, Puerto Rico and Chicago, at such venues as the Chicago Museum of Contemporary Art, The Green Mill Contemporary Music Series, the Music Gallery of Toronto, Lilfest Music Festival, the Kinzie Loft Concerts, and the Kerrytown Concert House. 
+  description: Born in 1989, Sid Samberg has been composing and performing his own
+    music since the age of six. His music first gained attention in 1999 when he played
+    for the world-renowned violinist Ida Haendel. He has since performed in New York,
+    Montreal, Ann Arbor, Toronto, Puerto Rico and Chicago, at such venues as the Chicago
+    Museum of Contemporary Art, The Green Mill Contemporary Music Series, the Music
+    Gallery of Toronto, Lilfest Music Festival, the Kinzie Loft Concerts, and the
+    Kerrytown Concert House.
 - name: John Pisaro
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus
     incidunt autem quia aliquid officia temporibus saepe ut quas nesciunt dolorum
@@ -27,8 +33,9 @@ text_groups:
 - name: Nick Stahl
   description: "<p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid,
     excepturi!</p>"
-- name: CHristopher Vincent
+- name: Christopher Vincent
   description: "<p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid,
     excepturi!</p>"
+type: page
 
 ---
