@@ -12,6 +12,9 @@ menu:
   - name: Contact
     weight: 2
     url: /contact
+  - name: Research
+    weight: 3
+    url: /research
 
 # Custom params
 params:
