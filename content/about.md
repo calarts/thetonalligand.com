@@ -13,23 +13,22 @@ header:
     '565': img/profile_565x420.png
     '848': img/profile_848x443.png
 text_groups:
-- name: About
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis saepe
-    perferendis culpa aut libero, <span class="default-text bold-text">voluptatem
-    voluptatum</span>, ut beatae ipsa sint alias autem ipsum ea quibusdam suscipit
-    provident illo nihil nostrum porro. Omnis et hic eum in corrupti dicta cum fugiat!
-- name: Philosophy
+- name: Sid Samberg
+  description: Born in 1989, Sid Samberg has been composing and performing his own music since the age of six. His music first gained attention in 1999 when he played for the world-renowned violinist Ida Haendel. He has since performed in New York, Montreal, Ann Arbor, Toronto, Puerto Rico and Chicago, at such venues as the Chicago Museum of Contemporary Art, The Green Mill Contemporary Music Series, the Music Gallery of Toronto, Lilfest Music Festival, the Kinzie Loft Concerts, and the Kerrytown Concert House. 
+- name: John Pisaro
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus
     incidunt autem quia aliquid officia temporibus saepe ut quas nesciunt dolorum
     odio optio perspiciatis rem accusamus expedita nemo quis, fuga voluptatem. Corrupti
     vero asperiores officia, ipsa ipsam. Suscipit repellendus molestias, sint quas
     voluptates quia vitae quidem.
-- name: Disciplines
+- name: Greta Melcher
   description: "<p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid,
     excepturi!</p>"
-- name: Get in touch
-  description: <a class="blue-text bold-text" href="mailto:hello@example.com?subject=Hello,%20Yates!%20Lets%20make%20something%20great%20together!">hello@example.com</a>
-  class: line
-type: page
+- name: Nick Stahl
+  description: "<p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid,
+    excepturi!</p>"
+- name: CHristopher Vincent
+  description: "<p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid,
+    excepturi!</p>"
 
 ---
