@@ -3,6 +3,7 @@ languageCode: en-us
 title: "the tonal ligand"
 theme: yourfolio
 disableKinds: [RSS, taxonomy, taxonomyTerm]
+relativeURLs: true
 
 menu:
  main:
@@ -20,4 +21,5 @@ menu:
 params:
   env: development
   logoImage: img/logo.png
+  logofile: img/logo.png
   logoImageAlt: the tonal ligand logo
