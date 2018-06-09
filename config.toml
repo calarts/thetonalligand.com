@@ -1,12 +1,9 @@
 baseurl = "https://the-tonal-ligand.com/"
-title = "the tonal ligand"
-theme = "hugo-creative-portfolio-theme"
-languageCode = "en-us"
-# Enable comments by entering your Disqus shortname
 disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-
+languageCode = "en-us"
+theme = "hugo-creative-portfolio-theme"
+title = "the tonal ligand"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
@@ -53,13 +50,14 @@ googleAnalytics = ""
   name = "contact"
   url = "contact/"
 
-  # [params.social]
+  [params.social]
+    instagram     = "https://www.instagram.com/explore/tags/biodesignchallenge/"
   # facebook      = "full page or profile url in facebook"
   # googleplus    = "full profile url in googleplus"
   # email         = "email@example.com"
   # twitter       = "full profile url in twitter"
   # linkedin      = "full profile url in linkedin"
   # stackoverflow = "full profile url in stackoverflow"
-  # instagram     = "full profile url in instagram"
   # github        = "full profile url in github"
   # youtube       = "full profile url in youtube" 
+

@@ -3,7 +3,11 @@ new_page_extension: md
 auto_deploy: true
 admin_path: 
 webhook_url: 
-sections: 
+sections:
+  team:
+    default_front_matter_template: team
+  portfolio:
+    default_front_matter_template: portfolio
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
