@@ -15,4 +15,4 @@ By harnessing promiscuous receptor-ligand interactions in the BMP pathway, a sin
 - Cells perform complex computations on combinations of BMP ligands
 - A mathematical model shows how computations arise from receptor-ligand promiscuity
 - A single cell type can perform different computations on different ligand pairs
-- Changes in receptor profiles can reprogram the computations
+- Changes in receptor profiles can reprogram the computations. 
