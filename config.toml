@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "The Tonal Ligand"
   copyright = "&copy;2018-present the artists"
   sidebarAbout = [
-    "the tonal ligand is musical research into cellular communication. We are musicians exploring new frontiers with music."
+    "the tonal ligand is musical research into cellular communication. We are musicians exploring new frontiers in biology."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -32,9 +32,14 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
+  name = "home"
+  url = "home/"
+  home = true
+
+  [[params.navlinks]]
   name = "team"
   url = "team/"
-  home = true
+  home = false
 
   [[params.navlinks]]
   name = "portfolio"
