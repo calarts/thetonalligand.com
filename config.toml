@@ -1,4 +1,4 @@
-baseurl = "http://the-tonal-ligand.com/"
+baseurl = "https://the-tonal-ligand.com/"
 title = "the tonal ligand"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
