@@ -1,4 +1,5 @@
----
-title: <h1>the tonal ligand</h1> is musical research into cellular communication. We are musicians exploring new frontiers with music.
-date: 2018-06-04 18:28:28 +0200
-description: 'the tonal ligand is new research into cellular communication with music. '
++++
+date = "2016-11-06T13:00:25+05:30"
+title = "the tonal ligand is musical research into cellular communication. We are musicians exploring new frontiers with music."
++++
+
