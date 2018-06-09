@@ -3,18 +3,126 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://the-tonal-ligand.com/</loc>
-    <lastmod>2018-06-04T18:28:28+02:00</lastmod>
+    <loc>https://the-tonal-ligand.com/portfolio/work2/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://the-tonal-ligand.com/about/</loc>
-    <lastmod>2018-06-04T16:56:15+02:00</lastmod>
+    <loc>https://the-tonal-ligand.com/team/christopher/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://the-tonal-ligand.com/contact/</loc>
-    <lastmod>2018-06-04T14:50:58+02:00</lastmod>
+    <loc>https://the-tonal-ligand.com/portfolio/work3/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/team/greta/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/team/john/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/portfolio/work4/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/team/nick/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/portfolio/work5/</loc>
+    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/team/sid/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/portfolio/work6/</loc>
+    <lastmod>2016-11-05T19:56:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/portfolio/work7/</loc>
+    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/portfolio/work8/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/portfolio/work9/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/portfolio/work10/</loc>
+    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/portfolio/work11/</loc>
+    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/home/</loc>
+    <lastmod>2017-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/research/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/portfolio/work1/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/portfolio/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/team/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
