@@ -3,7 +3,7 @@ draft = false
 image = "/img/logo.png"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
-title = "Item with image"
+title = "ligand 11"
 weight = 11
 +++
 

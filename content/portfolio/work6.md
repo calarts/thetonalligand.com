@@ -2,7 +2,7 @@
 draft = false
 image = "/img/logo.png"
 date = "2016-11-05T19:56:17+05:30"
-title = "Name of the work 6"
+title = "ligand 6"
 showonlyimage = false
 weight = 6
 +++
