@@ -25,7 +25,7 @@ title = "the tonal ligand"
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "dgoodwin@calarts.edu"
+  email = "team@the-tonal-ligand.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -34,8 +34,13 @@ title = "the tonal ligand"
   home = true
 
   [[params.navlinks]]
-  name = "team"
-  url = "team/"
+  name = "presentation"
+  url = "presentation/"
+  home = false
+
+  [[params.navlinks]]
+  name = "exhibit"
+  url = "exhibit/"
   home = false
 
   [[params.navlinks]]
@@ -47,14 +52,19 @@ title = "the tonal ligand"
   url = "research/"
 
   [[params.navlinks]]
+  name = "team"
+  url = "team/"
+  home = false
+
+   [[params.navlinks]]
   name = "contact"
   url = "contact/"
 
   [params.social]
     instagram     = "https://www.instagram.com/explore/tags/biodesignchallenge/"
+    email         = "team@the-tonal-ligand.com"
   # facebook      = "full page or profile url in facebook"
   # googleplus    = "full profile url in googleplus"
-  # email         = "email@example.com"
   # twitter       = "full profile url in twitter"
   # linkedin      = "full profile url in linkedin"
   # stackoverflow = "full profile url in stackoverflow"
