@@ -1,2 +1,6 @@
 +++
+date = ""
+title = ""
+image = ""
+description = ""
 +++
