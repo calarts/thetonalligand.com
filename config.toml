@@ -44,8 +44,8 @@ title = "the tonal ligand"
   home = false
 
   [[params.navlinks]]
-  name = "ligands"
-  url = "portfolio/"
+  name = "affinities"
+  url = "affinities/"
 
   [[params.navlinks]]
   name = "research"
