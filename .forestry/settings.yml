@@ -4,8 +4,6 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
-  content/portfolio:
-    default_front_matter_template: portfolio
   content/team:
     default_front_matter_template: team
 upload_dir: static/uploads
