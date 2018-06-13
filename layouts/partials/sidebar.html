@@ -1,3 +1,4 @@
+<!-- START sidebar.html -->
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
@@ -17,8 +18,12 @@
         {{ with .Site.Params.copyright }}
           {{ . | safeHTML }}
         {{ end }}
-        {{ partial "attribution.html" . }}
+        <P>
+            {{ partial "attribution.html" . }}
+        </P>
       </p>
     </div>
+
   </div>
 </div>
+<!-- END sidebar.html -->

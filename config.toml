@@ -1,5 +1,5 @@
 baseurl = "https://the-tonal-ligand.com/"
-disqusShortname = ""
+disqusShortname = "the-tonal-ligand"
 googleAnalytics = ""
 languageCode = "en-us"
 theme = "hugo-creative-portfolio-theme"
@@ -9,7 +9,7 @@ title = "the tonal ligand"
   # Use custom.css for your custom styling
   style = "default"
   description = "The Tonal Ligand"
-  copyright = "&copy;2018-present the artists"
+  copyright = "&copy;2018 by the artists"
   sidebarAbout = [
     "the tonal ligand is musical research into cellular communication. We are musicians exploring new frontiers in biology."
   ]
@@ -69,5 +69,5 @@ title = "the tonal ligand"
   # linkedin      = "full profile url in linkedin"
   # stackoverflow = "full profile url in stackoverflow"
   # github        = "full profile url in github"
-  # youtube       = "full profile url in youtube" 
+  # youtube       = "full profile url in youtube"
 
