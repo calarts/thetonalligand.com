@@ -1,10 +1,12 @@
 +++
 date = "2016-11-06T13:00:25+05:30"
 title = "Combinatorial Signal Perception in the BMP Pathway"
+description = "The 2017 paper that started our musical journey."
+image = "/img/receptorligrands_blask.jpg"
 +++
 
 ### Authors
-Yaron E. Antebi, James M. Linton, Heidi Klumpe, Christina Su, Reed McCardell, Michael B. Elowitz </p>
+Yaron E. Antebi, James M. Linton, Heidi Klumpe, Christina Su, Reed McCardell, Michael B. Elowitz
 
 ### Abstract
 By harnessing promiscuous receptor-ligand interactions in the BMP pathway, a single cell can perform different computations, depending on which combinations of receptors and ligands are present.

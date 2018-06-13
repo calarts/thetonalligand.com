@@ -1,0 +1,21 @@
+<!-- START row partial -->
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>{{ .Title }}</h1>
+         <h3>{{ .Description }}</h3>
+
+                      {{ if and (isset .Params "image") .Params.image }}
+                      <P>
+                        <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
+                            <img src="{{.Site.BaseURL}}{{ .Params.image }}" alt="" class="img-responsive">
+                        </a>
+                    </P>
+                      {{ end }}
+
+
+         {{ .Content }}
+      </div>
+    </div>
+  </div>
+<!-- END row partial -->
