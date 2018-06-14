@@ -2,7 +2,7 @@
 date = "2017-11-06T13:00:25+05:30"
 title = "we are musicians exploring new frontiers in biology. "
 description = "the tonal ligand is musical research into cellular communication."
-image = "/img/tonally-ligand-dude.jpg"
+image = "/img/affinities.png"
 +++
 
 
