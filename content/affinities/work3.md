@@ -3,7 +3,7 @@ date = "2016-11-05T19:50:47+05:30"
 showonlyimage = false
 draft = false
 image = "/img/affinity_3.png"
-title = "also partially compatible"
+title = "partially compatible"
 weight = 3
 +++
 
