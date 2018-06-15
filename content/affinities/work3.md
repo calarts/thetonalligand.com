@@ -1,13 +1,13 @@
 +++
-date = "2016-11-05T19:44:32+05:30"
+date = "2016-11-05T19:50:47+05:30"
 showonlyimage = false
 draft = false
-title = "partially compatible"
 image = "/img/affinity_3.png"
+title = "also partially compatible"
 weight = 3
 +++
 
-A ligand may only be compatible with one of the two receptor parts, while the other part remains incompatible with the ligand. 
+A ligand may only be compatible with the second of two receptor parts, while the other part remains incompatible with the ligand. 
 
 <audio src="/audio/a2002011001-e02-128k.mp3" autoplay> 
 Sorry, your browser does not support the <audio> element. 
