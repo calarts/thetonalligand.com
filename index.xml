@@ -38,12 +38,12 @@ Sorry, your browser does not support the &lt;audio&gt; element.
     </item>
     
     <item>
-      <title>fully incompatible</title>
+      <title>partially compatible</title>
       <link>https://the-tonal-ligand.com/affinities/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
       <guid>https://the-tonal-ligand.com/affinities/work2/</guid>
-      <description>&lt;p&gt;A ligand may be fully incompatible with receptor, and fail to bind with either of the two sections. &lt;/p&gt;
+      <description>&lt;p&gt;A ligand may only be compatible with one of the two receptor parts, while the other part remains incompatible with the ligand. &lt;/p&gt;
 
 &lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/a2002011001-e02-128k.mp3&#34; autoplay&gt;
 Sorry, your browser does not support the &lt;audio&gt; element.
@@ -64,12 +64,12 @@ Sorry, your browser does not support the &lt;audio&gt; element.
     </item>
     
     <item>
-      <title>partially compatible</title>
+      <title>also partially compatible</title>
       <link>https://the-tonal-ligand.com/affinities/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
       <guid>https://the-tonal-ligand.com/affinities/work3/</guid>
-      <description>&lt;p&gt;A ligand may only be compatible with one of the two receptor parts, while the other part remains incompatible with the ligand. &lt;/p&gt;
+      <description>&lt;p&gt;A ligand may only be compatible with the second of two receptor parts, while the other part remains incompatible with the ligand. &lt;/p&gt;
 
 &lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/a2002011001-e02-128k.mp3&#34; autoplay&gt;
 Sorry, your browser does not support the &lt;audio&gt; element.
@@ -92,12 +92,12 @@ Sorry, your browser does not support the &lt;audio&gt; element.
     </item>
     
     <item>
-      <title>also partially compatible</title>
+      <title>fully incompatible</title>
       <link>https://the-tonal-ligand.com/affinities/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
       <guid>https://the-tonal-ligand.com/affinities/work4/</guid>
-      <description>&lt;p&gt;A ligand may only be compatible with the second of two receptor parts, while the other part remains incompatible with the ligand. &lt;/p&gt;
+      <description>&lt;p&gt;A ligand may be fully incompatible with receptor, and fail to bind with either of the two sections. &lt;/p&gt;
 
 &lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/a2002011001-e02-128k.mp3&#34; autoplay&gt;
 Sorry, your browser does not support the &lt;audio&gt; element.
