@@ -39,12 +39,7 @@ title = "the tonal ligand"
   home = false
 
   [[params.navlinks]]
-  name = "exhibit"
-  url = "exhibit/"
-  home = false
-
-  [[params.navlinks]]
-  name = "affinities"
+  name = "exhibit: affinities"
   url = "affinities/"
 
   [[params.navlinks]]

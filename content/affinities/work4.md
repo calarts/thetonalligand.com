@@ -9,17 +9,30 @@ weight = 4
 
 A ligand may be fully incompatible with receptor, and fail to bind with either of the two sections. 
 
-<audio src="/audio/a2002011001-e02-128k.mp3" autoplay> 
+<audio src="/audio/Receptor_Bb_Eb.mp3" autoplay> 
 Sorry, your browser does not support the <audio> element. 
 </audio>
 
 
 <!--more-->
 
+Binding_Db
+<BR />
 <audio controls>
-	<source src="/audio/a2002011001-e02-128k.mp3" type="audio/mpeg">
-	<source src="/audio/a2002011001-e02-128k.ogg" type="audio/ogg">
+	<source src="/audio/Binding_Db.mp3" type="audio/mpeg">
 	Your browser does not support the audio tag.
 </audio>
 
-Here, Sid and Greta will again play the two prongs of the receptor, using the same two notes as before, and again playing in rhythmic unison. (Demonstrate perfect 5th again.) Nick, Chris, and John are again playing ligands, represented by the same notes as before. The difference is that, this time, one of the ligands with an incompatible, dissonant non-chord tone will attempt to bind with the receptor, and neither receptor part sounds harmonious with this rogue ligand. In this case, the ligand attempting to bind is John. (Demonstrate each receptor note with ligand one at a time, then all three together.) The other two ligands will continue to exist without interacting with the cell, and will not bind rhythmically to the receptor. DEMONSTRATE PART 1B 
+Receptor_C_G
+<BR />
+<audio controls>
+	<source src="/audio/Receptor_C_G.mp3" type="audio/mpeg">
+	Your browser does not support the audio tag.
+</audio>
+
+## Examples of Intervals Used
+
+To represent an incompatible binding, we used the same interval to represent the receptors, but this time a “2nd” between the receptor notes represents the ligand. This note sounds dissonant with each of the two receptor notes separately, producing a minor 2nd and a tritone: 
+
+##### Dissonant:
+![Dissonant chord](/img/dissonant_chord4.png)
