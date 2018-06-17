@@ -19,7 +19,7 @@
       <guid>https://the-tonal-ligand.com/affinities/work1/</guid>
       <description>&lt;p&gt;A ligand may be fully compatible with a receptor, binding with both sections.&lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/Receptor_C_G.mp3&#34; autoplay&gt;
+&lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/ex1.mp3&#34; autoplay&gt;
 Sorry, your browser does not support the &lt;audio&gt; element.
 &lt;/audio&gt;&lt;/p&gt;
 
@@ -34,7 +34,7 @@ Sorry, your browser does not support the &lt;audio&gt; element.
       <guid>https://the-tonal-ligand.com/affinities/work2/</guid>
       <description>&lt;p&gt;A ligand may only be compatible with one of the two receptor parts, while the other part remains incompatible with the ligand. &lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/Receptor_Eb_Bb.mp3&#34; autoplay&gt;
+&lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/ex2.mp3&#34; autoplay&gt;
 Sorry, your browser does not support the &lt;audio&gt; element.
 &lt;/audio&gt;&lt;/p&gt;
 
@@ -49,7 +49,22 @@ Sorry, your browser does not support the &lt;audio&gt; element.
       <guid>https://the-tonal-ligand.com/affinities/work3/</guid>
       <description>&lt;p&gt;A ligand may only be compatible with the second of two receptor parts, while the other part remains incompatible with the ligand. &lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/Receptor_Ab_Eb_good.mp3&#34; autoplay&gt;
+&lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/ex3.mp3&#34; autoplay&gt;
+Sorry, your browser does not support the &lt;audio&gt; element.
+&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Resulting Cell Behavioral Change</title>
+      <link>https://the-tonal-ligand.com/affinities/jazz/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://the-tonal-ligand.com/affinities/jazz/</guid>
+      <description>&lt;p&gt;A ligand may be fully incompatible with receptor, and fail to bind with either of the two sections. &lt;/p&gt;
+
+&lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/jazz.mp3&#34; autoplay&gt;
 Sorry, your browser does not support the &lt;audio&gt; element.
 &lt;/audio&gt;&lt;/p&gt;
 
@@ -64,7 +79,7 @@ Sorry, your browser does not support the &lt;audio&gt; element.
       <guid>https://the-tonal-ligand.com/affinities/work4/</guid>
       <description>&lt;p&gt;A ligand may be fully incompatible with receptor, and fail to bind with either of the two sections. &lt;/p&gt;
 
-&lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/Receptor_Bb_Eb.mp3&#34; autoplay&gt;
+&lt;p&gt;&lt;audio src=&#34;https://the-tonal-ligand.com/audio/ex4.mp3&#34; autoplay&gt;
 Sorry, your browser does not support the &lt;audio&gt; element.
 &lt;/audio&gt;&lt;/p&gt;
 
