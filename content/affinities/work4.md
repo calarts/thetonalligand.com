@@ -9,7 +9,7 @@ weight = 4
 
 A ligand may be fully incompatible with receptor, and fail to bind with either of the two sections. 
 
-<audio src="/audio/Receptor_Bb_Eb.mp3" autoplay> 
+<audio src="/audio/ex4.mp3" autoplay> 
 Sorry, your browser does not support the <audio> element. 
 </audio>
 

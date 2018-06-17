@@ -9,7 +9,7 @@ weight = 1
 
 A ligand may be fully compatible with a receptor, binding with both sections.
 
-<audio src="/audio/Receptor_C_G.mp3" autoplay> 
+<audio src="/audio/ex1.mp3" autoplay> 
 Sorry, your browser does not support the <audio> element. 
 </audio>
 

@@ -9,7 +9,7 @@ weight = 3
 
 A ligand may only be compatible with the second of two receptor parts, while the other part remains incompatible with the ligand. 
 
-<audio src="/audio/Receptor_Ab_Eb_good.mp3" autoplay> 
+<audio src="/audio/ex3.mp3" autoplay> 
 Sorry, your browser does not support the <audio> element. 
 </audio>
 
