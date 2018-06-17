@@ -3,8 +3,8 @@ date = "2016-11-05T19:41:01+05:30"
 showonlyimage = false
 draft = false
 title = "Resulting Cell Behavioral Change"
-image = "/img/chordprogression.png"
-weight = 4
+image = "/img/chordprogression_narrow.png"
+weight = 5
 +++
 
 A ligand may be fully incompatible with receptor, and fail to bind with either of the two sections. 
