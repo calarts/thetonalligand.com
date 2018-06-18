@@ -1,22 +1,26 @@
 +++
 date = "2016-11-06T13:00:25+05:30"
-title = "Combinatorial Signal Perception in the BMP Pathway"
-description = "A single cell can perform different computations depending on which combinations of receptors and ligands are present by harnessing promiscuous receptor-ligand interactions in the BMP pathway."
+title = "In 2017 our Caltech colleagues identified multiplex molecular communications between cells. They found that the same signals may cause different responses depending on the cell’s type. This research suggests new classes of biotherapies that send discordant signals to cancerous cells without affecting healthy cells nearby."
+description = "Combinatorial Signal Perception in the BMP Pathway"
 image = ""
 +++
 
 http://dx.doi.org/10.1016/j.cell.2017.08.015
 
+### IN BRIEF
+
+##### A single cell can perform different computations depending on which combinations of receptors and ligands are present by harnessing promiscuous receptor-ligand interactions in the BMP pathway.
+
 
 ## Authors
-Yaron E. Antebi[^1], James M. Linton[^1], Heidi Klumpe[^1],[^2], Christina Su, Reed McCardell, Michael B. Elowitz[^1],[^2],[^3],[^4], *
+##### Yaron E. Antebi[^1], James M. Linton[^1], Heidi Klumpe[^1],[^2], Christina Su, Reed McCardell, Michael B. Elowitz[^1],[^2],[^3],[^4], *
 
 [^1]: Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA 91125, USA
 [^2]: Division of Chemistry and Chemical Engineering, California Institute of Technology, Pasadena, CA 91125, USA
 [^3]: Howard Hughes Medical Institute and Department of Applied Physics, California Institute of Technology, Pasadena, CA 91125, 
 
 [^4]: Lead Contact
-* Correspondence: melowitz@caltech.edu
+Correspondence: melowitz@caltech.edu
 
 
 ## Highlights
@@ -69,4 +73,3 @@ To quantitatively measure BMP pathway activity, we constructed a reporter cell l
 
 After an elevated transient response to BMP addition, pSMAD levels reached a steady state within 90 min (Figure S1E). The steady-state behavior was also reflected in reporter fluorescence, which accumulated at an approximately constant rate over time for up to 48 hours.
 
-Figure S1F

@@ -4,7 +4,7 @@ draft = false
 image = "/img/sid.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Sid Samberg"
-weight = 5
+weight = 1
 +++
 
 <h5>presenter</h5>

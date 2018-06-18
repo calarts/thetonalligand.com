@@ -1,10 +1,10 @@
 +++
 showonlyimage = false
 draft = false
-image = "/img/greta.png"
+image = "/img/greta.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Greta Melcher"
-weight = 2
+weight = 3
 +++
 
 Greta is a guitarist and creator of <a href="http://www.tsiimade.com/blog/2016/8/3/qa-with-greta-melcher-the-creator-of-tsii">tsii</a>

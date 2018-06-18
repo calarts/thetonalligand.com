@@ -4,7 +4,7 @@ draft = false
 image = "/img/chris.png"
 date = "2016-11-05T18:25:22+05:30"
 title = "Christopher Vincent"
-weight = 1
+weight = 5
 +++
 
 Christopher is an actor ...
