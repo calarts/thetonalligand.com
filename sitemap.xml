@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://the-tonal-ligand.com/slides/slide01/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://the-tonal-ligand.com/team/sid/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
@@ -10,6 +15,11 @@
   <url>
     <loc>https://the-tonal-ligand.com/affinities/work1/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide02/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
   <url>
@@ -23,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://the-tonal-ligand.com/slides/slide03/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://the-tonal-ligand.com/affinities/work3/</loc>
     <lastmod>2016-11-05T19:50:47+05:30</lastmod>
   </url>
@@ -30,6 +45,11 @@
   <url>
     <loc>https://the-tonal-ligand.com/team/greta/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide04/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
@@ -48,7 +68,62 @@
   </url>
   
   <url>
+    <loc>https://the-tonal-ligand.com/slides/slide05/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://the-tonal-ligand.com/team/christopher/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide06/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide07/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide08/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide09/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide10/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide11/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide12/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide13/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide14/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/slide15/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
@@ -63,7 +138,7 @@
   </url>
   
   <url>
-    <loc>https://the-tonal-ligand.com/presentation/</loc>
+    <loc>https://the-tonal-ligand.com/overview/</loc>
     <lastmod>2017-11-06T13:00:25+05:30</lastmod>
   </url>
   
@@ -85,6 +160,12 @@
   
   <url>
     <loc>https://the-tonal-ligand.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://the-tonal-ligand.com/slides/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
