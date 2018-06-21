@@ -16,7 +16,8 @@ description = "Fully Compatible Binding"
     Your browser does not support the audio tag.
 </audio>
 
-<!-- /audio/Binding_C.mp3
+<!-- 
+/audio/Binding_C.mp3
 /audio/Binding_D.mp3
 /audio/Binding_E.mp3
 /audio/Binding_Cb.mp3
@@ -26,4 +27,7 @@ description = "Fully Compatible Binding"
 /audio/Receptor_C_G.mp3
 /audio/Receptor_Gb_Db_bad.mp3
 /audio/Receptor_Bb_Eb.mp3
-/audio/Receptor_Eb_Bb.mp3 -->
+/audio/Receptor_Eb_Bb.mp3
+ -->
+
+
