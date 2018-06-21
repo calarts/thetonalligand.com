@@ -28,20 +28,20 @@ By adding a third note to a two-note chord, it could either be very audibly cons
 
 ### 2) Why music and not just sound? Could you model the system with rhythms or tones alone?
 
-The short answer is that having the simulation lead into something resembling "music" is more exciting and engaging! But the long answer is that we essentially did use only tones and rhythm, at least to produce the basic simulations. Whether or not this can be called "music" is more of a philosophical question, but we believe that it's all music- there shouldn't necessarily be a limit on what sounds or tones may be considered musical.
+The short answer is that having the simulation lead into something resembling "music" is more exciting and engaging! The long answer is that we essentially did use only tones and rhythm, at least to produce the basic simulations. Whether or not this can be called "music" is more of a philosophical question. It's all music! There's no limit for what sounds or tones may be considered musical.
 
 
 ### 3) How could this approach be used to compose music? Ie is this more than a musical curiosity?
 
-The way in which the simulation is expressed can be done in innumerable ways musically, even if consonance and dissonance (along with rhythmic patterns) remained the primary focus. Any sort of biological interaction could probably be expressed musically in some way, given the infinite complexity of both molecules and sounds, so I think it could definitely be used to compose music, as long as it was approached with a willingness to experiment.
+The way in which the simulation is expressed can be done in innumerable ways musically, even if consonance and dissonance (along with rhythmic patterns) remained the primary focus. Any sort of biological interaction could probably be expressed musically in some way, given the infinite complexity of both molecules and sounds, and could be used to compose music.
 
 ### 4) I feel like I have heard these chords before. Is there a jazz standard in there? 
 
-Chords such as 7ths and 9ths, in which extra notes (or "extensions") are added onto triadic chords, form the basis of jazz. I'm not a trained jazz musician- my background is in classical music, but our team member who initially had the idea for the project is a jazz saxophonist. Unfortunately he isn't present with us for the conference, but we decided to keep the jazz to present the music as something close to its original idea!
+Chords such as 7ths and 9ths, in which extra notes (or "extensions") are added onto triadic chords, form the basis of jazz. So yes, you probably have heard these chords before. 
 
 ### 5) You mentioned visual representations. What can we hear that we cannot see? i.e. what does this musical simulation bring out of the research that other simulations do not?
 
-Part of what makes the sound-based simulation engaging is the capacity for others (even with next to no musical training) to easily participate in the simulation, while a visual simulation is by default less participatory. Also, what we hear in music is personal, allowing for discussions to arise from the variety of sounds and harmonies produced which represent the biological phenomena, while imagery and descriptions are fixed states. It is the potential for this simulation to evolve and change that makes it uniquely vibrant.
+Part of what makes the sound-based simulation engaging is the capacity for others (even without musical training) to easily participate in the simulation. What we hear in music is personal, allowing for discussions to arise from the variety of sounds and harmonies produced which represent the biological phenomena; where imagery and descriptions remain fixed. It is the potential for this simulation to evolve and change that makes it uniquely vibrant.
 
 
 
@@ -53,14 +53,16 @@ Jazz and many other styles of music thrive on using dissonance as something natu
 
 What might be meaningful is to find a way to illustrate ligand bindings without using such clear-cut examples as technical consonance and dissonance, because in music they go far beyond "pleasing sounding" or "ugly sounding". For an on-the-nose example, this ligand binding could easily be done in the exact opposite way (using dissonance to illustrate a compatible binding rather than consonance) due to the subjective nature of pleasurable sound. So if the project were to ever be greatly expanded, perhaps it could be opened up into a full work, even something large-scale- or even more broadly, an open-ended work consisting only of very general instructions, which any artist would be able to use to produce their own version of the auditory simulation. 
 
+Consonance and dissonance are cultural contructions to some degree, and these constructions enable communication. The same is true for all communication, as our presentation makes clear to all hearers. 
+
 
 ### 8) I know a little bit about molecular signaling. How is this new research different than what we understood before?
 
-We hope is that the unending possibilities of the simulation will encourage others to further study ligands, figuring out what exactly they are capable of influencing. We probably don't know the full extent of what cells might be capable of given the right kinds of molecular interaction.
+The unending possibilities of the simulation will encourage others to further study molecular communication and appreciating what thuis system can do. Who knows the full extent of what cells might be capable of given the right kinds of molecular interaction? Music can help us understand the scope of this communication system. 
 
 ### 9) What happens once you have these affinities? Aka: ok, the ligand/message is received. Now what?
 
-The examples of "cell behavioral changes" that occur once bindings are achieved include things such as being able to digest new types of food when- and only when- they are present. In a similar way, we chose to show a chord progression only when the first full chord was present. Basically, we created an environment in which new patterns of music might occur naturally. This type of if / then interaction is endlessly variable.
+The examples of "cell behavioral changes" that occur once bindings are achieved include things such as being able to digest new types of food when- and only when- they are present. In a similar way, we chose to show a chord progression only when the first full chord was present. We created an environment in which new patterns of music might occur naturally. This type of if / then interaction is endlessly variable.
 
 
 ### 10) What do consonance and dissonance mean to cells?
@@ -70,6 +72,6 @@ Perhaps something "consonant" to a cell might signal it's taking on a new role, 
 
 ### 11) how does musical communication (music qua music) compare to this cellular system? i.e. can musicians reach people through combinations of notes and rhythms?
 
-Because music is something which communicates otherwise incommunicable ideas, I would say the binds it produces between humans might share some similarities with the binds produced between molecules. It can make us feel a certain way- think of the innate (even biological)? desire for music which evokes specific emotional responses to suit different situations. 
+Because music is something which communicates otherwise incommunicable ideas, I would say the binds it produces between humans might share some similarities with the binds produced between molecules. It can make us feel a certain way- think of the innate, perhaps even biological, desire for music which evokes specific emotional responses to suit different situations. 
 
 
