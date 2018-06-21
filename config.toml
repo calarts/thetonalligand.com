@@ -48,6 +48,10 @@ title = "the tonal ligand"
   url = "affinities/"
 
   [[params.navlinks]]
+  name = "q & a"
+  url = "questions/"
+
+  [[params.navlinks]]
   name = "research"
   url = "research/"
 
