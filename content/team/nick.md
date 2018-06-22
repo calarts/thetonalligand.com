@@ -7,7 +7,7 @@ title = "Nick Stahl"
 weight = 4
 +++
 
-Nick plays the tenor sax 
+Nick "Jazzmaster" Stahl plays the tenor sax. 
 
 <!--more-->
 
