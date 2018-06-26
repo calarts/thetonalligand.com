@@ -13,3 +13,6 @@ This site documents our process of creating music inspired by new research in ce
 ![Sid and John @MoMA](/img/sid+john_atmoma.png)
 
 ![Sid behind the podium](/img/sid_at_bdc2018.png)
+
+![Parsons gallery opening](/img/parsons_gallery_interview.png)
+
